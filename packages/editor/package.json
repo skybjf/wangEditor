@@ -1,5 +1,5 @@
 {
-  "name": "@wangeditor/editor",
+  "name": "@mofangui/editor",
   "version": "5.1.23",
   "description": "Web rich text editor, Web 富文本编辑器",
   "keywords": [
@@ -29,7 +29,7 @@
   ],
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -53,7 +53,7 @@
     "@uppy/xhr-upload": "^2.0.3",
     "@wangeditor/basic-modules": "^1.1.7",
     "@wangeditor/code-highlight": "^1.0.3",
-    "@wangeditor/core": "^1.1.19",
+    "@mofangui/core": "^1.1.19",
     "@wangeditor/list-module": "^1.0.5",
     "@wangeditor/table-module": "^1.1.4",
     "@wangeditor/upload-image-module": "^1.0.2",
