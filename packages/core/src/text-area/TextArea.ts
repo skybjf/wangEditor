@@ -19,7 +19,7 @@ import eventHandlerConf from './event-handlers/index'
 let ID = 1
 
 class TextArea {
-  readonly id = ID++
+  readonly id = ID++ + Math.random()
   $box: Dom7Array
   $textAreaContainer: Dom7Array
   $scroll: Dom7Array

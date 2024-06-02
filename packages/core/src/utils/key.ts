@@ -12,6 +12,8 @@ export class Key {
   id: string
 
   constructor() {
-    this.id = `${n++}`
+    n += 1
+    n += Math.random()
+    this.id = `${n}`
   }
 }

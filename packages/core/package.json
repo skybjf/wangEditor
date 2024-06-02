@@ -1,8 +1,8 @@
 {
-  "name": "@wangeditor/core",
+  "name": "@mofangui/editorcore",
   "version": "1.1.19",
   "description": "wangEditor core",
-  "author": "wangfupeng1988 <wangfupeng1988@163.com>",
+  "author": "skybjf <skybjf@126.com>",
   "contributors": [],
   "homepage": "https://github.com/wangeditor-team/wangEditor#readme",
   "license": "MIT",
