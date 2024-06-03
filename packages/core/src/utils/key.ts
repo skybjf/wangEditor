@@ -13,7 +13,7 @@ export class Key {
 
   constructor() {
     n += 1
-    n += Math.random()
+    n += Math.floor(Math.random() * 100000000000)
     this.id = `${n}`
   }
 }
